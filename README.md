@@ -35,3 +35,7 @@ In the examples of [official Kotlin documentation](https://kotlinlang.org/docs/h
 Besides other examples (please see the official documentation for more details), you can see here an example of use of a Spring Framework annotation in Kotlin:
 
 ![kotlin-spring](images/kotlin-spring.png)
+
+Is also interesting the question of multiplatform related to Kotlin. Please see the official documentation for more details:
+
+![kotlin multiplatform](images/kotlin-multiplatform.png)
