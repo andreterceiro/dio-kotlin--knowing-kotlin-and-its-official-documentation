@@ -31,3 +31,7 @@ You can see [here](https://github.com/JetBrains/kotlin) the Github repository of
 In the examples of [official Kotlin documentation](https://kotlinlang.org/docs/home.html) you can see examples of how make tests in Kotlin, how to simple create a singleton and a data class, see some examples:
 
 ![examples of official documentation](images/examples-of-official-documentation.png)
+
+Besides other examples (please see the official documentation for more details), you can see here an example of use of a Spring Framework annotation in Kotlin:
+
+![kotlin-spring](images/kotlin-spring.png)
