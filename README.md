@@ -19,3 +19,8 @@ One observation is that when I developed the [Kotlin version of Jankenpo](https:
 ## Github repository
 
 You can see [here](https://github.com/JetBrains/kotlin) the Github repository of Kotlin. Teacher commented that Kotlin is open source.
+
+
+# Why kotlin
+
+![why kotlin](images/why-kotlin.png)
