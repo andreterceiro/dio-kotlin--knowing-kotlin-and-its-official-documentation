@@ -39,3 +39,5 @@ Besides other examples (please see the official documentation for more details),
 Is also interesting the question of multiplatform related to Kotlin. Please see the official documentation for more details:
 
 ![kotlin multiplatform](images/kotlin-multiplatform.png)
+
+Teacher also talked that [this link - learn Kotlin by example](https://play.kotlinlang.org/byExample/overview) is a good place to learn Kotlin by example.
