@@ -21,6 +21,13 @@ One observation is that when I developed the [Kotlin version of Jankenpo](https:
 You can see [here](https://github.com/JetBrains/kotlin) the Github repository of Kotlin. Teacher commented that Kotlin is open source.
 
 
-# Why kotlin
+## Why kotlin
 
 ![why kotlin](images/why-kotlin.png)
+
+
+## Examples of official documentation
+
+In the examples of [official Kotlin documentation](https://kotlinlang.org/docs/home.html) you can see examples of how make tests in Kotlin, how to simple create a singleton and a data class, see some examples:
+
+![examples of official documentation](images/examples-of-official-documentation.png)
