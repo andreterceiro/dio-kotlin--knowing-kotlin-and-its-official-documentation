@@ -14,3 +14,8 @@ One observation is that when I developed the [Kotlin version of Jankenpo](https:
 ## Hyper interessant - koans
 
 [Koans](https://play.kotlinlang.org/koans/overview) are challenges of code.
+
+
+## Github repository
+
+You can see [here](https://github.com/JetBrains/kotlin) the Github repository of Kotlin. Teacher commented that Kotlin is open source.
